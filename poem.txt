@@ -1,0 +1,4 @@
+Roses are red,
+Violets are blue,
+Git has branches,
+And so do you.
